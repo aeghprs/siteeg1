@@ -1,6 +1,4 @@
-# Bootstrap 5 Bootcamp company website
-
-### a simple website using bootstrap 5, this covers most of the classes 
+###  website using bootstrap 5
 
 https://aeghprs.github.io/siteeg1/
 
